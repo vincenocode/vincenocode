@@ -1,16 +1,14 @@
-### Hi there 👋
+### Nice to meet you here 👋
+I'm Vince, Founder and Investor from 🇬🇧 London, UK. ➕ I love to help startups and founders in their journey!
 
-<!--
-**vincenocode/vincenocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑🏻‍💻 Currently working on 💻
+Founder and full stack no-code / low-code developer at [![](https://logo.clearbit.com/nocodefamily.com) No Code Family](https://nocodefamily.com) 
+Angel investor in early No-Code & Web3.0 startups
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Reach out & let's talk about
+- Front-end development using HTML, CSS, JS, React, but also getting rid of all these and leveraging low-code platforms to go a little faster!
+- Backend Development with BigQuery, PostgreSQL, MongoDB .. & their low-code alternative (yes yes)
+- No-code Backends (true) and large Data Architectures with limited DevOps
+- Web Automations **WITHOUT** using Python 😎
+- No-code AI, ML, NLP .. they do exist
+- No-code GPT3 developments
